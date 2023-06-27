@@ -1,0 +1,12 @@
+.library {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(auto-fill, 30px);
+}
+
+
+.book {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+

@@ -1,0 +1,4 @@
+-Write a function that gets the books from the array and displays them on the webpage(in table form)
+-Add a 'new book' button which brings up a form. Form allows user to input a new book.
+-Add a button to each book's display card to remove a book from the table (array).
+-Add a button to each books' display to change the status of the book to 'read' and 'not read'.
